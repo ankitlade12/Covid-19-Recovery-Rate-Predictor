@@ -1,0 +1,763 @@
+﻿Age,Country,Gender,Symptoms,Diarrhea,Sputum,Chills,Shortness of Breath,Other Resperatory Symptoms,Malaise,Rhinorrhea,Headache,Pneumonia,mild symptoms,chest pain,sore throat,cough,fever,sneezing,Pneumonitis,LivesInWuhan,TravelHistoryLocation,ChronicDiseaseQ,DeathQ
+group5(40-49),China,Female,"""cough"", ""fatigue"", ""fever"", ""sputum"", ""myalgias""",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,,1,1
+group6(50-59),China,Male,"""cough"", ""sputum"", ""fever""",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,,0,1
+group7(60-69),China,Male,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,0,1
+group5(40-49),China,Female,"""chest pain"", ""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,,1,0
+group7(60-69),China,Male,"""chest pain"", ""shortness of breath"", ""fever""",0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,China,0,0
+group7(60-69),China,Male,"""chest pain"", ""shortness of breath"", ""fever""",0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,China,0,0
+group8(70-79),China,Male,"""cough"", ""fever"", ""shortness of breath""",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,,0,1
+group7(60-69),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,,0,1
+group4(30-39),China,Male,"""cough"", ""diarrhea"", ""fever"", ""rhinorrhea"", ""sneezing""",1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,China,0,0
+group4(30-39),China,Male,"""cough"", ""diarrhea"", ""fever"", ""rhinorrhea"", ""sneezing""",1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,China,0,0
+group4(30-39),China,Female,"""diarrhea"", ""fever"", ""rhinorrhea"", ""chest pain"", ""sore throat""",1,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,China,0,0
+group4(30-39),China,Female,"""diarrhea"", ""fever"", ""rhinorrhea"", ""chest pain"", ""sore throat""",1,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,China,0,0
+group9(80-89,China,Male,"""fatigue""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,1,1
+group4(30-39),Japan,Male,"""cough"", ""fever"", ""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,China,0,0
+group4(30-39),Japan,Male,"""cough"", ""fever"", ""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,China,0,0
+group6(50-59),China,Male,"""chest pain"", ""cough"", ""fever"", ""gasp""",0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,,1,1
+group7(60-69),China,Female,"""cough"", ""fever"", ""weakness""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,China,0,0
+group7(60-69),China,Female,"""cough"", ""fever"", ""weakness""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,China,0,0
+group9(80-89,China,Female,"""chest pain"", ""cough"", ""fatigue"", ""fever""",0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,,1,1
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group7(60-69),China,Male,"""cough"", ""fatigue"", ""fever"", ""weakness""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,China,0,0
+group7(60-69),China,Male,"""cough"", ""fatigue"", ""fever"", ""weakness""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,China,0,0
+group7(60-69),Thail,Female,"""chills"", ""fever"", ""headache"", ""sore throat""",0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,1,China,0,0
+group7(60-69),Thail,Female,"""chills"", ""fever"", ""headache"", ""sore throat""",0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,1,China,0,0
+group7(60-69),China,Male,"""fatigue"", ""shortness of breath""",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,0,1
+group7(60-69),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,1,1
+group9(80-89,China,Male,"""headache"", ""somnolence""",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,,1,1
+group4(30-39),China,Male,"""fatigue"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,0,1
+group8(70-79),China,Male,"""cough"", ""sputum"", ""vomiting"", ""fever""",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,,1,1
+group9(80-89,China,Male,"""cough"", ""fever"", ""gasp""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,,1,1
+group6(50-59),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,,0,1
+group7(60-69),China,Female,"""shortness of breath"", ""cough"", ""fever"", ""pleural effusion"", ""weakness""",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,,0,0
+group7(60-69),China,Female,"""shortness of breath"", ""cough"", ""fever"", ""pleural effusion"", ""weakness""",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,,0,0
+group4(30-39),Nepal,Male,"""cough"", ""fever"", ""shortness of breath""",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group4(30-39),Nepal,Male,"""cough"", ""fever"", ""shortness of breath""",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group7(60-69),China,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group7(60-69),China,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group7(60-69),China,Female,"""chest pain"", ""fever""",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,,1,1
+group9(80-89,China,Male,"""chills"", ""myalgias""",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0,1
+group4(30-39),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group4(30-39),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group5(40-49),China,Male,"""cough"", ""dizziness""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0,0
+group5(40-49),China,Male,"""cough"", ""dizziness""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0,0
+group5(40-49),Phili,Male,"""fever"", ""headache"", ""malaise""",0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,2,Taiwan,0,0
+group8(70-79),Argen,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,spain,0,0
+group7(60-69),China,Female,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,0,0
+group7(60-69),China,Female,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,0,0
+group7(60-69),China,Male,"""dizziness"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,1,1
+group9(80-89,China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,1,1
+group9(80-89,China,Female,"""chest pain"", ""chest pain"", ""fever"", ""weakness"", ""shortness of breath""",0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,,1,1
+group4(30-39),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group4(30-39),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group4(30-39),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group4(30-39),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group4(30-39),Boliv,Male,"""headache"", ""weakness"", ""rhinorrhea"", ""myalgias""",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,spain,0,0
+group3(20-30),Namib,Male,"""COVID-19 related symptoms""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,SouthAfrica,0,0
+group7(60-69),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,,0,1
+group8(70-79),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,,1,1
+group8(70-79),China,Male,"""cough"", ""fever"", ""gasp""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,,1,1
+group9(80-89,China,Female,"""cough"", ""fever"", ""gasp"", ""shortness of breath""",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,,1,1
+group6(50-59),China,Female,"""cough"", ""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,China,0,0
+group6(50-59),China,Female,"""cough"", ""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,China,0,0
+group7(60-69),China,Male,"""cough"", ""fever"", ""chills""",0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,,1,1
+group9(80-89,China,Male,"""diarrhea"", ""fever""",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,1,1
+group7(60-69),China,Female,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,China,0,0
+group7(60-69),China,Female,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,China,0,0
+group8(70-79),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,,1,1
+group9(80-89,China,Male,"""shortness of breath""",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,1,1
+group5(40-49),Japan,Male,"""fever"", ""pneumonia"", ""sore throat""",0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,China,0,0
+group5(40-49),Japan,Male,"""fever"", ""pneumonia"", ""sore throat""",0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,China,0,0
+group5(40-49),China,Male,"""pneumonia""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,China,0,0
+group5(40-49),China,Male,"""pneumonia""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,China,1,0
+group6(50-59),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,china,0,0
+group6(50-59),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,china,0,0
+group3(20-30),Namib,Male,"""COVID-19 related symptoms""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,SouthAfrica,0,0
+group4(30-39),Chile,Male,"""fever"", ""cough"", ""headache""",0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,2,Singapore,0,0
+group7(60-69),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,,0,0
+group7(60-69),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,,0,0
+group4(30-39),Japan,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group4(30-39),Japan,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group7(60-69),Japan,Male,"""chills"", ""cough"", ""joint pain""",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0,0
+group7(60-69),Japan,Male,"""chills"", ""cough"", ""joint pain""",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0,0
+group5(40-49),Malay,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,Singapore,0,0
+group7(60-69),Malay,Female,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Singapore,0,0
+group7(60-69),Brazi,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,France,0,0
+group7(60-69),Brazi,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,France,0,0
+group8(70-79),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,,0,1
+group9(80-89,China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,0,1
+group4(30-39),Unite,Male,"""cough"", ""fever"", ""nausea""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,China,1,0
+group4(30-39),Unite,Male,"""cough"", ""fever"", ""nausea""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,China,1,0
+group1(1-10),Malay,Male,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Singapore,0,0
+droup2(11-19),Malay,Male,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Singapore,0,0
+group6(50-59),China,Female,"""pharyngalgia""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,China,0,0
+group6(50-59),China,Female,"""pharyngalgia""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,China,0,0
+group6(50-59),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group6(50-59),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group7(60-69),China,Female,"""cough"", ""malaise"", ""fever"", ""other symptoms""",0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group7(60-69),China,Female,"""cough"", ""malaise"", ""fever"", ""other symptoms""",0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group3(20-30),China,Male,"""malaise""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,China,0,0
+group3(20-30),China,Male,"""malaise""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,China,0,0
+group3(20-30),Vietn,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,,0,0
+group3(20-30),Vietn,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,,0,0
+group4(30-39),South,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group4(30-39),South,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group4(30-39),China,Male,"""fatigue"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group4(30-39),China,Male,"""fatigue"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group7(60-69),Phili,Male,"""acute respiratory failure"", ""pneumonia""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,Singapore,1,1
+group5(40-49),Malay,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,Singapore,0,0
+group5(40-49),China,Male,"""malaise"", ""fever""",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group5(40-49),China,Male,"""malaise"", ""fever""",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group7(60-69),Malay,Female,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Singapore,0,0
+group1(1-10),Malay,Male,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Singapore,0,0
+group5(40-49),China,Female,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,0
+group5(40-49),China,Female,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group6(50-59),China,Male,"""cough"", ""shortness of breath"", ""fever""",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,China,0,0
+group6(50-59),China,Male,"""cough"", ""shortness of breath"", ""fever""",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,China,0,0
+group6(50-59),China,Male,"""fever"", ""myalgias"", ""cold symptoms""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group6(50-59),China,Male,"""fever"", ""myalgias"", ""cold symptoms""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group6(50-59),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group6(50-59),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group6(50-59),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group6(50-59),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group6(50-59),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group6(50-59),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group7(60-69),China,Male,"""cough"", ""fatigue"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group7(60-69),China,Male,"""cough"", ""fatigue"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group8(70-79),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,0,1
+group8(70-79),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,1,1
+droup2(11-19),Malay,Male,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Singapore,0,0
+group6(50-59),Phili,Male,"""acute respiratory distress syndrome""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Malaysia,1,1
+group4(30-39),China,Male,"""malaise""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,China,0,0
+group4(30-39),China,Male,"""malaise""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,China,0,0
+group4(30-39),Franc,Male,"""chills"", ""conjunctivitis"", ""cough"", ""fever""",0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group4(30-39),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group4(30-39),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group4(30-39),China,Male,"""cough"", ""headache""",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,China,0,0
+group4(30-39),China,Male,"""cough"", ""headache""",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,China,0,0
+group4(30-39),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group4(30-39),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group4(30-39),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,china,0,0
+group4(30-39),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,china,0,0
+group5(40-49),China,Male,"""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,China,0,0
+group5(40-49),China,Male,"""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,China,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group5(40-49),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group5(40-49),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group5(40-49),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group5(40-49),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group6(50-59),China,Male,"""fever"", ""sore muscle"", ""weakness""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group6(50-59),China,Male,"""fever"", ""sore muscle"", ""weakness""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group6(50-59),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group6(50-59),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group6(50-59),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group6(50-59),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group8(70-79),China,Female,"""fever"", ""weakness""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group8(70-79),China,Female,"""fever"", ""weakness""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group8(70-79),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group8(70-79),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group9(80-89,China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,japan,0,0
+group9(80-89,China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,japan,0,0
+group4(30-39),Phili,Male,"""cough"", ""malaise""",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,2,japan,0,0
+group5(40-49),Benin,Male,"""cough"", ""rhinorrhea"", ""sneezing"", ""myalgias""",0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,2,IvoryCoast,0,0
+group4(30-39),China,Female,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,china,0,0
+group4(30-39),China,Female,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,china,0,0
+group4(30-39),China,Male,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,china,0,0
+group4(30-39),China,Male,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,china,0,0
+group4(30-39),China,Male,"""fever"", ""pharyngalgia""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Thailand,0,0
+group4(30-39),China,Male,"""fever"", ""pharyngalgia""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Thailand,0,0
+group4(30-39),China,Male,"""chills"", ""diarrhea"", ""shortness of breath"", ""headache"", ""lack of energy"", ""myalgias""",1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,China,0,0
+group4(30-39),China,Male,"""chills"", ""diarrhea"", ""shortness of breath"", ""headache"", ""lack of energy"", ""myalgias""",1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,China,0,0
+group4(30-39),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group4(30-39),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group6(50-59),Benin,Male,"""cough"", ""cold symptoms"", ""fever"", ""malaise"", ""headache""",0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,2,Togo,0,0
+group4(30-39),Brazi,Female,"""fever"", ""rhinorrhea"", ""body soreness"", ""diarrhea""",1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,2,italy,0,0
+group3(20-30),China,Male,"""fever"", ""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,China,0,0
+group3(20-30),China,Male,"""fever"", ""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,China,0,0
+group3(20-30),China,Female,"""fever"", ""pharyngalgia""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group3(20-30),China,Female,"""fever"", ""pharyngalgia""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group3(20-30),China,Male,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,China,0,0
+group3(20-30),China,Male,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,China,0,0
+group3(20-30),China,Male,"""fever"", ""weakness""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group3(20-30),China,Male,"""fever"", ""weakness""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group3(20-30),China,Male,"""pneumonia""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,China,0,0
+group3(20-30),China,Male,"""pneumonia""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,China,1,0
+group3(20-30),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group3(20-30),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group4(30-39),South,Male,"""fever"", ""headache"", ""malaise"", ""sore throat"", ""cough""",0,0,0,0,0,1,0,1,0,0,0,1,1,1,0,0,2,italy,0,0
+group4(30-39),South,Male,"""fever"", ""headache"", ""malaise"", ""sore throat"", ""cough""",0,0,0,0,0,1,0,1,0,0,0,1,1,1,0,0,2,italy,0,0
+group8(70-79),Bhuta,Male,"""fever"", ""sore throat"", ""cough"", ""shortness of breath""",0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,2,india,0,0
+group8(70-79),Bhuta,Male,"""fever"", ""sore throat"", ""cough"", ""shortness of breath""",0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,2,india,0,0
+group4(30-39),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,1
+group4(30-39),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,1
+group5(40-49),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group5(40-49),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group5(40-49),China,Female,"""chest pain"", ""cough"", ""sputum"", ""myalgias""",0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,China,0,0
+group5(40-49),China,Female,"""chest pain"", ""cough"", ""sputum"", ""myalgias""",0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,China,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group6(50-59),Singa,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group6(50-59),Singa,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group5(40-49),Namib,Male,"""COVID-19 related symptoms""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,SouthAfrica,0,0
+group5(40-49),Namib,Male,"""COVID-19 related symptoms""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,SouthAfrica,0,0
+group5(40-49),Chile,Male,"""respiratory symptoms""",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,italy,0,0
+group5(40-49),Brazi,Female,"""fever"", ""cough"", ""rhinorrhea""",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,2,italy,0,0
+group7(60-69),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group7(60-69),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group7(60-69),South,Female,"""cough"", ""fever"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,China,0,0
+group7(60-69),South,Female,"""cough"", ""fever"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,China,0,0
+group7(60-69),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group7(60-69),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group7(60-69),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group7(60-69),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group7(60-69),Singa,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group7(60-69),Singa,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group7(60-69),China,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,China,0,0
+group7(60-69),China,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,China,0,0
+group1(1-10),China,Female,"""fever"", ""sneezing""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,China,0,0
+group1(1-10),China,Female,"""fever"", ""sneezing""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,China,0,0
+group3(20-30),China,Female,"""cough"", ""fever"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group3(20-30),China,Female,"""cough"", ""fever"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group3(20-30),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group3(20-30),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group3(20-30),China,Male,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,China,0,0
+group3(20-30),China,Male,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,China,0,0
+group3(20-30),China,Male,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,China,0,0
+group3(20-30),China,Male,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,China,1,0
+group3(20-30),China,Male,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,China,0,0
+group3(20-30),China,Male,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,China,0,0
+group4(30-39),China,Female,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,China,0,0
+group4(30-39),China,Female,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,China,0,0
+group4(30-39),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group4(30-39),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group5(40-49),China,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group5(40-49),China,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group5(40-49),China,Female,"""pneumonia""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,China,0,0
+group5(40-49),China,Female,"""pneumonia""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,China,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group5(40-49),China,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group5(40-49),China,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group5(40-49),China,Male,"""cough"", ""sputum"", ""fever""",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,China,0,0
+group5(40-49),China,Male,"""cough"", ""sputum"", ""fever""",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,China,0,0
+group6(50-59),China,Male,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,0
+group6(50-59),China,Male,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,0
+group6(50-59),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group6(50-59),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group6(50-59),South,Male,"""chills"", ""fever""",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group6(50-59),South,Male,"""chills"", ""fever""",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group7(60-69),China,Male,"""fever"", ""myalgias"", ""shortness of breath""",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group7(60-69),China,Male,"""fever"", ""myalgias"", ""shortness of breath""",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group7(60-69),China,Male,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,0
+group7(60-69),China,Male,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,0
+group8(70-79),China,Female,"""chest pain"", ""rhinorrhea""",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,,0,0
+group8(70-79),China,Female,"""chest pain"", ""rhinorrhea""",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,,0,0
+group6(50-59),"le""]",Female,"""pneumonia""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,China,0,0
+group6(50-59),"le""]",Female,"""pneumonia""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,China,0,0
+group3(20-30),China,Male,"""malaise""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,China,0,0
+group3(20-30),China,Male,"""malaise""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,China,0,0
+group4(30-39),Franc,Female,"""chills"", ""cough"", ""fatigue"", ""fever""",0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group4(30-39),China,Male,"""pneumonia""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,China,0,0
+group4(30-39),China,Male,"""pneumonia""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,China,1,0
+group5(40-49),Japan,Male,"""fever"", ""joint pain"", ""pneumonia""",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,China,0,0
+group5(40-49),Japan,Male,"""fever"", ""joint pain"", ""pneumonia""",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,China,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group5(40-49),China,Male,"""cough"", ""fever"", ""sputum""",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,China,0,0
+group5(40-49),China,Male,"""cough"", ""fever"", ""sputum""",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,China,0,0
+group5(40-49),Franc,Male,"""flu-like symptoms""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,China,0,0
+group7(60-69),China,Female,"""cough"", ""sputum""",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,China,0,0
+group7(60-69),China,Female,"""cough"", ""sputum""",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,China,0,0
+group7(60-69),China,Female,"""cough"", ""fever"", ""shortness of breath""",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,,0,0
+group7(60-69),China,Female,"""cough"", ""fever"", ""shortness of breath""",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,,0,0
+group8(70-79),China,Female,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,China,0,0
+group8(70-79),China,Female,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,China,0,0
+group8(70-79),China,Male,"""diarrhea""",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,India,0,0
+group8(70-79),China,Male,"""diarrhea""",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,India,0,0
+group6(50-59),Chile,Male,"""respiratory symptoms""",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,italy,0,0
+,Swede,Male,"""mild symptoms""",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,italy,0,0
+group3(20-30),Japan,Female,"""cough"", ""rhinorrhea""",0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,japan,0,0
+group3(20-30),Japan,Female,"""cough"", ""rhinorrhea""",0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,japan,0,0
+group3(20-30),Russi,Male,"""acute respiratory viral infection""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,italy,0,0
+group6(50-59),Czech,Female,"""fever"", ""chills"", ""myalgias"", ""joint pain"", ""cough""",0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,2,italy,0,0
+group4(30-39),Germa,Male,"""fever"", ""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,italy,0,0
+group3(20-30),Argen,Male,"""fever"", ""cough"", ""malaise""",0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2,italy,0,0
+group4(30-39),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group4(30-39),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group4(30-39),Germa,Male,"""chills"", ""fever"", ""myalgias"", ""sore throat""",0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,,1,0
+group4(30-39),China,Male,"""chills"", ""fever""",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group4(30-39),China,Male,"""chills"", ""fever""",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group4(30-39),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,china,0,0
+group4(30-39),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,china,0,0
+group6(50-59),Phili,Male,"""acute respiratory distress syndrome"", ""pneumonia""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,Philippines,0,1
+,China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group5(40-49),China,Female,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,China,0,0
+group5(40-49),China,Female,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,China,0,0
+group5(40-49),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group5(40-49),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group6(50-59),China,Female,"""chills"", ""headache"", ""fever""",0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,China,0,0
+group6(50-59),China,Female,"""chills"", ""headache"", ""fever""",0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,China,0,0
+group6(50-59),China,Male,"""cough"", ""sore throat"", ""sputum""",0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,China,0,0
+group6(50-59),China,Male,"""cough"", ""sore throat"", ""sputum""",0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,China,0,0
+group5(40-49),Japan,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group5(40-49),Japan,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group3(20-30),China,Female,"""dizziness"", ""sore limbs""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,China,0,0
+group3(20-30),China,Female,"""dizziness"", ""sore limbs""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,China,0,0
+group4(30-39),China,Female,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,0
+group4(30-39),China,Female,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,0
+group4(30-39),China,Male,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,China,0,0
+group4(30-39),China,Male,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,China,0,0
+,China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group3(20-30),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group5(40-49),China,Female,"""fever"", ""sore throat"", ""sputum""",0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,,0,0
+group5(40-49),China,Female,"""fever"", ""sore throat"", ""sputum""",0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,,0,0
+group6(50-59),"le""]",Male,"""myalgias"", ""rhinorrhea""",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0,0
+group6(50-59),"le""]",Male,"""myalgias"", ""rhinorrhea""",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0,0
+group3(20-30),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group6(50-59),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group6(50-59),"le""]",Female,"""cough"", ""fever"", ""myalgias"", ""rhinorrhea"", ""sore throat""",0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,1,China,1,0
+group6(50-59),"le""]",Female,"""cough"", ""fever"", ""myalgias"", ""rhinorrhea"", ""sore throat""",0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,1,China,1,0
+group7(60-69),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group7(60-69),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group6(50-59),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group4(30-39),Phili,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Australia,0,0
+group7(60-69),China,Male,"""fever"", ""fatigue""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group7(60-69),China,Male,"""fever"", ""fatigue""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group8(70-79),China,Male,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,0
+group8(70-79),China,Male,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,0
+group8(70-79),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group8(70-79),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group8(70-79),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group8(70-79),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group6(50-59),Japan,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,china,0,0
+group6(50-59),Japan,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,china,0,0
+group3(20-30),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,china,0,0
+group3(20-30),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,china,0,0
+group3(20-30),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,china,0,0
+group3(20-30),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,china,0,0
+group3(20-30),South,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,china,0,0
+group3(20-30),South,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,china,0,0
+group4(30-39),South,Male,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,China,1,0
+group4(30-39),South,Male,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,China,1,0
+group4(30-39),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,,0,0
+group4(30-39),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,,0,0
+group7(60-69),Phili,Female,"""acute respiratory distress syndrome"", ""pneumonia""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,France,0,1
+group3(20-30),Chile,Female,"""respiratory symptoms"", ""fever""",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,2,France,0,0
+group7(60-69),Cambo,Male,"""fever"", ""rhinorrhea""",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,China,0,0
+group7(60-69),Cambo,Male,"""fever"", ""rhinorrhea""",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,China,0,0
+group8(70-79),Vietn,Male,"""respiratory symptoms""",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,China,1,0
+group8(70-79),Vietn,Male,"""respiratory symptoms""",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,China,1,0
+group5(40-49),Japan,Female,"""cough"", ""fever"", ""pneumonia""",0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,China,0,0
+group5(40-49),Japan,Female,"""cough"", ""fever"", ""pneumonia""",0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,China,0,0
+group7(60-69),Namib,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,Germany,0,0
+group6(50-59),Japan,Male,"""fever"", ""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,Germany,0,0
+group5(40-49),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,hongkong,0,0
+group5(40-49),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,hongkong,0,0
+group6(50-59),Japan,Male,"""fever"", ""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,Germany,0,0
+,Niger,Male,"""mild symptoms""",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,Germany,0,0
+group4(30-39),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,china,0,0
+group4(30-39),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,china,0,0
+group4(30-39),China,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,,0,0
+group4(30-39),China,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,,0,0
+group7(60-69),Japan,Male,"""shortness of breath""",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,indonesia,0,0
+group7(60-69),Japan,Male,"""shortness of breath""",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,indonesia,0,0
+group3(20-30),China,Male,"""cough"", ""diarrhea"", ""rhinorrhea""",1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,,0,0
+group3(20-30),China,Male,"""cough"", ""diarrhea"", ""rhinorrhea""",1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,,0,0
+group3(20-30),China,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,,0,0
+group3(20-30),China,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,,0,0
+group3(20-30),China,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,,0,0
+group3(20-30),China,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,,0,0
+group4(30-39),China,Female,"""fever"", ""fatigue""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group4(30-39),China,Female,"""fever"", ""fatigue""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group5(40-49),Kazak,Male,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Germany,0,0
+group4(30-39),Kazak,Female,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Germany,0,0
+group5(40-49),China,Female,"""chills"", ""fatigue""",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0
+group5(40-49),China,Female,"""chills"", ""fatigue""",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0
+group5(40-49),China,Male,"""sore throat"", ""headache"", ""rhinorrhea"", ""fatigue""",0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,2,japan,0,0
+group5(40-49),China,Male,"""sore throat"", ""headache"", ""rhinorrhea"", ""fatigue""",0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,2,japan,0,0
+group4(30-39),Germa,Female,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,iran,0,0
+group7(60-69),Canad,Female,"""cough"", ""sore throat"", ""body soreness"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,2,iran,0,0
+group8(70-79),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group8(70-79),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group4(30-39),Canad,Female,"""cough"", ""rhinorrhea"", ""shortness of breath"", ""headache""",0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,2,iran,0,0
+group6(50-59),Canad,Female,"""cough"", ""body soreness"", ""chills""",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,iran,0,0
+group4(30-39),Brazi,Female,"""fever"", ""cough"", ""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,israel,0,0
+group4(30-39),Brazi,Female,"""fever"", ""cough"", ""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,israel,0,0
+group7(60-69),Canad,Female,"""cough"", ""sore throat"", ""body soreness"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,2,iran,0,0
+group4(30-39),Canad,Female,"""cough"", ""rhinorrhea"", ""shortness of breath"", ""headache""",0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,2,iran,0,0
+group3(20-30),China,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,china,0,0
+group3(20-30),China,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,china,0,0
+group6(50-59),Canad,Female,"""cough"", ""body soreness"", ""chills""",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,iran,0,0
+group7(60-69),Canad,Male,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,iran,0,0
+group4(30-39),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,china,0,0
+group4(30-39),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,china,0,0
+group4(30-39),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group4(30-39),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group5(40-49),China,Male,"""chest pain"", ""fever"", ""nausea""",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,,0,0
+group5(40-49),China,Male,"""chest pain"", ""fever"", ""nausea""",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,,0,0
+group4(30-39),Unite,Female,"""mild symptoms""",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,iran,0,0
+group3(20-30),Canad,Female,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,china,0,0
+group4(30-39),China,Male,"""malaise""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,China,0,0
+group4(30-39),China,Male,"""malaise""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,China,0,0
+group4(30-39),China,Female,"""cough"", ""myalgias"", ""sweating""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0,0
+group4(30-39),China,Female,"""cough"", ""myalgias"", ""sweating""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0,0
+group4(30-39),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group4(30-39),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group3(20-30),Canad,Female,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,china,0,0
+,China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,china,0,0
+group5(40-49),China,Female,"""fever"", ""joint pain"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,china,0,0
+group5(40-49),China,Female,"""fever"", ""joint pain"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,china,0,0
+group4(30-39),Japan,Female,"""fever"", ""rhinorrhea""",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,China,0,0
+group4(30-39),Japan,Female,"""fever"", ""rhinorrhea""",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,China,0,0
+,China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,china,0,0
+group6(50-59),South,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group7(60-69),China,Male,"""nausea"", ""vomiting""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0
+group7(60-69),China,Male,"""nausea"", ""vomiting""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0
+group6(50-59),South,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group6(50-59),"le""]",Female,"""cough"", ""fever"", ""shortness of breath""",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+group6(50-59),"le""]",Female,"""cough"", ""fever"", ""shortness of breath""",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+group6(50-59),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group6(50-59),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group5(40-49),China,Female,"""fatigue"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group5(40-49),South,Female,"""cough"", ""fever"", ""rhinorrhea""",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,2,Thailand,0,0
+group5(40-49),South,Female,"""cough"", ""fever"", ""rhinorrhea""",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,2,Thailand,0,0
+group7(60-69),Brazi,Male,"""fever"", ""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,italy,0,0
+group7(60-69),Brazi,Male,"""fever"", ""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,italy,0,0
+group6(50-59),China,Female,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,0
+group6(50-59),China,Female,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,0
+group8(70-79),China,Female,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0,0
+group8(70-79),China,Female,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0,0
+group3(20-30),Brazi,Female,"""mild symptoms""",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,italy,0,0
+group3(20-30),Brazi,Female,"""mild symptoms""",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,italy,0,0
+group6(50-59),China,Female,"""cough"", ""fever"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,,0,0
+group6(50-59),China,Female,"""cough"", ""fever"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,,0,0
+group6(50-59),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,china,0,0
+group6(50-59),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,china,0,0
+group7(60-69),China,Female,"""fever"", ""sore throat"", ""fatigue"", ""vomiting""",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,China,0,0
+group7(60-69),China,Female,"""fever"", ""sore throat"", ""fatigue"", ""vomiting""",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,China,0,0
+group7(60-69),China,Female,"""cough"", ""fever"", ""acute left heart failure"", ""acute coronary syndrome""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,China,1,0
+group7(60-69),China,Female,"""cough"", ""fever"", ""acute left heart failure"", ""acute coronary syndrome""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,China,1,0
+group5(40-49),China,Female,"""fatigue"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group5(40-49),China,Male,"""cough"", ""body soreness"", ""cold symptoms""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,china,0,0
+group5(40-49),China,Female,"""fever"", ""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,Thailand,0,0
+group5(40-49),China,Female,"""fever"", ""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,Thailand,0,0
+group4(30-39),Malay,Male,"""malaise"", ""cough""",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,China,0,0
+group4(30-39),Malay,Male,"""malaise"", ""cough""",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,China,0,0
+group5(40-49),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group5(40-49),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group5(40-49),China,Male,"""cough"", ""body soreness"", ""cold symptoms""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,china,0,0
+group4(30-39),China,Female,"""systemic weakness"", ""rhinorrhea"", ""fever""",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,2,china,0,0
+group6(50-59),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group6(50-59),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group6(50-59),China,Female,"""chest pain"", ""fever""",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,China,0,0
+group6(50-59),China,Female,"""chest pain"", ""fever""",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,China,0,0
+group6(50-59),Vietn,Female,"""fever"", ""headache"", ""rhinorrhea""",0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,,0,0
+group6(50-59),Vietn,Female,"""fever"", ""headache"", ""rhinorrhea""",0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,,0,0
+group7(60-69),China,Male,"""fever"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group7(60-69),China,Male,"""fever"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group4(30-39),China,Female,"""systemic weakness"", ""rhinorrhea"", ""fever""",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,2,china,0,0
+group5(40-49),China,Male,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,china,0,0
+group3(20-30),China,Male,"""cough"", ""sputum"", ""fever""",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group3(20-30),China,Male,"""cough"", ""sputum"", ""fever""",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group5(40-49),China,Male,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,china,0,0
+group3(20-30),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group3(20-30),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+,China,Male,"""fever"", ""headache""",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,china,0,0
+group3(20-30),Japan,Male,"""cough"", ""fever"", ""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,China,0,0
+group3(20-30),Japan,Male,"""cough"", ""fever"", ""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,China,0,0
+group6(50-59),Japan,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group6(50-59),Japan,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+,China,Male,"""fever"", ""headache""",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,china,0,0
+group4(30-39),Thail,Female,"""cough"", ""fever"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+group4(30-39),Thail,Female,"""cough"", ""fever"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+group6(50-59),South,Male,"""myalgias"", ""fever"", ""pneumonia""",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,2,china,0,0
+droup2(11-19),Brazi,Female,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,italy,0,0
+droup2(11-19),Brazi,Female,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,italy,0,0
+group6(50-59),South,Male,"""myalgias"", ""fever"", ""pneumonia""",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,2,china,0,0
+,China,Female,"""fever"", ""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,china,0,0
+group7(60-69),China,Female,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0,0
+group7(60-69),China,Female,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0,0
+group7(60-69),Japan,Female,"""nausea"", ""cough"", ""pneumonia"", ""fever""",0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,,0,0
+group7(60-69),Japan,Female,"""nausea"", ""cough"", ""pneumonia"", ""fever""",0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,,0,0
+group6(50-59),"le""]",Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,italy,0,0
+group6(50-59),"le""]",Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,italy,0,0
+group7(60-69),Japan,Female,"""fever"", ""headache""",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,USA,0,0
+group7(60-69),Japan,Female,"""fever"", ""headache""",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,USA,0,0
+group10(90&above),China,Female,"""fever"", ""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,,0,0
+group10(90&above),China,Female,"""fever"", ""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,,0,0
+group4(30-39),Japan,Female,"""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,japan,0,0
+group4(30-39),Japan,Female,"""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,japan,0,0
+group6(50-59),Japan,Female,"""fever"", ""shortness of breath"", ""pneumonia""",0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,japan,0,0
+group6(50-59),Japan,Female,"""fever"", ""shortness of breath"", ""pneumonia""",0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,japan,0,0
+group6(50-59),Japan,Male,"""fever"", Quantity[38.3, ""DegreesCelsius""]",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group6(50-59),Japan,Male,"""fever"", Quantity[38.3, ""DegreesCelsius""]",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group6(50-59),"le""]",Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,italy,0,0
+group6(50-59),"le""]",Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,italy,0,0
+group6(50-59),China,Female,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0,0
+group6(50-59),China,Female,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0,0
+group4(30-39),China,Male,"""fever"", ""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,,0,0
+group4(30-39),China,Male,"""fever"", ""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,,0,0
+,China,Female,"""fever"", ""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,china,0,0
+group3(20-30),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group7(60-69),Brazi,Male,"""fever"", ""cough"", ""rhinorrhea""",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,italy,0,0
+group7(60-69),Brazi,Male,"""fever"", ""cough"", ""rhinorrhea""",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,italy,0,0
+group3(20-30),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group7(60-69),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group9(80-89,China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group9(80-89,China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group7(60-69),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group4(30-39),Brazi,Male,"""fever"", ""cough"", ""sore throat"", ""myalgias"", ""headache""",0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,italy,0,0
+group4(30-39),Brazi,Male,"""fever"", ""cough"", ""sore throat"", ""myalgias"", ""headache""",0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,italy,0,0
+group3(20-30),China,Female,"""fever"", ""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,Thailand,0,0
+group5(40-49),Japan,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+group5(40-49),Japan,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+droup2(11-19),Brazi,Female,"""fever"", ""cough"", ""rhinitis"", ""sore throat"", ""headache"", ""weakness""",0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,italy,0,0
+droup2(11-19),Brazi,Female,"""fever"", ""cough"", ""rhinitis"", ""sore throat"", ""headache"", ""weakness""",0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,italy,0,0
+group5(40-49),Brazi,Female,"""fever"", ""cough"", ""rhinorrhea""",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,italy,0,0
+group5(40-49),Brazi,Female,"""fever"", ""cough"", ""rhinorrhea""",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,italy,0,0
+group3(20-30),Unite,Male,"""rhinorrhea""",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,china,0,0
+group5(40-49),Brazi,Female,"""rhinorrhea"", ""malaise"", ""malaise""",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,italy,0,0
+group5(40-49),Brazi,Female,"""rhinorrhea"", ""malaise"", ""malaise""",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,italy,0,0
+group7(60-69),Icela,Male,"""mild symptoms""",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,italy,0,0
+group3(20-30),China,Female,"""fever"", ""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,Thailand,0,0
+group7(60-69),Phili,Male,"""fever"", ""cough"", ""dizziness""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,Thailand,0,0
+group3(20-30),Unite,Male,"""rhinorrhea""",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,china,0,0
+group5(40-49),Singa,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group5(40-49),Singa,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group5(40-49),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group5(40-49),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group8(70-79),Phili,Female,"""multiple organ failure"", ""pneumonia""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,uk,1,1
+group6(50-59),Japan,Female,"""cough"", ""fever"", ""pneumonia"", ""respiratory symptoms""",0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,2,china,0,0
+group6(50-59),Japan,Female,"""cough"", ""fever"", ""pneumonia"", ""respiratory symptoms""",0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,2,china,0,0
+group6(50-59),"le""]",Male,"""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,china,0,0
+group6(50-59),"le""]",Male,"""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,china,0,0
+group4(30-39),Spain,Female,"""flu-like symptoms""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,italy,0,0
+group5(40-49),Roman,Male,"""asymptomatic"", ""afebrile""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,italy,0,0
+group3(20-30),China,Male,"""fever"", ""rhinorrhea""",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,2,china,0,0
+group5(40-49),Roman,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,italy,0,0
+group3(20-30),Brazi,Female,"""fever"", ""cough"", ""rhinorrhea"", ""conjunctivitis""",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,italy,0,0
+group5(40-49),Brazi,Male,"""rhinorrhea"", ""cough"", ""fever""",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,italy,0,0
+group3(20-30),China,Male,"""fever"", ""rhinorrhea""",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,2,china,0,0
+group4(30-39),Saint,Female,"""mild symptoms"", ""cough"", ""fever""",0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,2,uk,1,0
+group5(40-49),Vietn,Female,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,china,0,0
+group5(40-49),Vietn,Female,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,china,0,0
+group5(40-49),Canad,Male,"""mild symptoms""",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,uk,0,0
+group7(60-69),Brazi,Female,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,italy,0,0
+group5(40-49),Roman,Male,"""asymptomatic"", ""afebrile""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,italy,0,0
+group6(50-59),Brazi,Female,"""fever"", ""cough"", ""body soreness"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,italy,0,0
+group6(50-59),Brazi,Female,"""fever"", ""cough"", ""body soreness"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,italy,0,0
+,Brazi,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,uk,0,0
+group4(30-39),Niger,Female,"""fever"", ""cold symptoms"", ""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,uk,0,0
+group6(50-59),Roman,Male,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,italy,0,0
+group3(20-30),Brazi,Female,"""fever"", ""cough"", ""rhinorrhea"", ""conjunctivitis""",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,italy,0,0
+group1(1-10),Japan,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group4(30-39),Brazi,Female,"""fever"", ""respiratory symptoms""",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group4(30-39),Brazi,Female,"""fever"", ""respiratory symptoms""",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+,Niger,Male,"""mild symptoms""",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,uk,0,0
+group1(1-10),Japan,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group5(40-49),Japan,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group5(40-49),Brazi,Male,"""fever"", ""myalgias"", ""headache""",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,,0,0
+group5(40-49),Brazi,Male,"""fever"", ""myalgias"", ""headache""",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,,0,0
+group5(40-49),Japan,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group4(30-39),Malay,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+group4(30-39),Malay,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+droup2(11-19),China,Female,"""abdominal pain"", ""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,china,0,0
+group6(50-59),Japan,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group6(50-59),Japan,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group4(30-39),China,Female,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,china,0,0
+group4(30-39),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group6(50-59),Japan,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group7(60-69),Spain,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group7(60-69),Brazi,Female,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,italy,0,0
+group6(50-59),China,Female,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,0
+group7(60-69),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group6(50-59),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,hongkong,0,0
+group5(40-49),Japan,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+group4(30-39),Japan,Male,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,china,0,0
+group4(30-39),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group5(40-49),China,Female,"""chest pain""",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,china,0,0
+group6(50-59),Belgi,Male,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,china,0,0
+droup2(11-19),Vietn,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+group8(70-79),Thail,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group7(60-69),China,Female,"""cough"", ""fatigue"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+droup2(11-19),China,Female,"""abdominal pain"", ""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,china,0,0
+group5(40-49),Malay,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,malaysia,0,0
+group3(20-30),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,japan,0,0
+group4(30-39),China,Female,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,china,0,0
+group7(60-69),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group4(30-39),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group5(40-49),Japan,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+group4(30-39),Japan,Male,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,china,0,0
+group4(30-39),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group5(40-49),China,Female,"""chest pain""",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,china,0,0
+droup2(11-19),Vietn,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+group8(70-79),Thail,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group7(60-69),China,Female,"""cough"", ""fatigue"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+group4(30-39),China,Male,"""fever"", ""dry throat"", ""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,china,0,0
+group5(40-49),China,Male,"""lesions on chest radiographs""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,china,0,0
+group5(40-49),Phili,Male,"""cough"", ""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,hongkong,1,1
+,Brazi,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,uk,0,0
+group5(40-49),Canad,Male,"""mild symptoms""",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,uk,0,0
+group4(30-39),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group4(30-39),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group4(30-39),China,Male,"""fever"", ""dry throat"", ""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,china,0,0
+group9(80-89,Reuni,Male,"""mild symptoms""",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,USA,0,0
+group3(20-30),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,japan,0,0
+droup2(11-19),China,Male,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,japan,0,0
+group5(40-49),Brazi,Female,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0
+droup2(11-19),China,Male,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,japan,0,0
+group5(40-49),"le""]",Female,"""chills"", ""fever"", ""rhinorrhea"", ""sore throat"", ""wheezing""",0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,macau,0,0
+group5(40-49),"le""]",Female,"""chills"", ""fever"", ""rhinorrhea"", ""sore throat"", ""wheezing""",0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,macau,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,malaysia,0,0
+group5(40-49),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,malaysia,0,0
+group1(1-10),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,malaysia,0,0
+group7(60-69),Brazi,Female,"""cough"", ""fever"", ""respiratory symptoms""",0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,italy,0,0
+group8(70-79),Brazi,Male,"""cough"", ""fever"", ""respiratory symptoms""",0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,italy,0,0
+group1(1-10),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,malaysia,0,0
+group5(40-49),Brazi,Male,"""fever"", ""cough"", ""respiratory symptoms""",0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,italy,0,0
+group3(20-30),"le""]",Female,"""cough"", ""respiratory symptoms""",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,Taiwan,0,0
+group9(80-89,Reuni,Male,"""mild symptoms""",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,USA,0,0
+group7(60-69),Brazi,Male,"""fever"", ""cough"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,,1,0
+group9(80-89,Phili,Male,"""acute respiratory failure"", ""pneumonia""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,USA,1,1
+group6(50-59),Austr,Male,"""fatigue"", ""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,USA,0,0
+group6(50-59),Austr,Male,"""fatigue"", ""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,USA,0,0
+group9(80-89,Phili,Female,"""septic shock"", ""cardiogenic shock"", ""acute respiratory distress syndrome"", ""acute renal failure""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,USA,1,1
+group7(60-69),China,Male,"""cough"", ""fatigue"", ""fever"", ""sputum""",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,China,0,0
+group6(50-59),Guyan,Female,"""kidney failure"", ""hypertension""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,USA,1,0
+group6(50-59),China,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group6(50-59),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,China,0,0
+group4(30-39),Japan,Male,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,China,0,0
+group6(50-59),Japan,Male,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,China,0,0
+group6(50-59),Guyan,Female,"""kidney failure"", ""hypertension""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,USA,1,0
+,Switz,Male,"""mild symptoms""",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,China,0,0
+group6(50-59),China,Female,"""fatigue"", ""fever"", ""weakness""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group4(30-39),China,Male,"""chills"", ""fever"", ""myalgias"", ""other symptoms""",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+droup2(11-19),China,Male,"""fatigue"", ""myalgias"", ""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,China,0,0
+group6(50-59),China,Male,"""fatigue"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+droup2(11-19),Chile,Male,"""respiratory symptoms""",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,italy,0,0
+droup2(11-19),Chile,Male,"""respiratory symptoms""",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,italy,0,0
+group6(50-59),Chile,Female,"""fever"", ""cough"", ""headache""",0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,2,italy,0,0
+group6(50-59),China,Male,"""cough"", ""fever"", ""rhinorrhea""",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,2,china,0,0
+group7(60-69),Canad,Male,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,iran,0,0
+group6(50-59),China,Male,"""cough"", ""fever"", ""rhinorrhea""",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,2,china,0,0
+group7(60-69),China,Male,"""fever"", ""cough"", ""fatigue"", ""nausea""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+group3(20-30),"le""]",Female,"""cough"", ""respiratory symptoms""",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,Taiwan,0,0
+group7(60-69),China,Male,"""cough"", ""myalgias"", ""weakness""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Thailand,0,0
+group3(20-30),Italy,Male,"""conjunctivitis"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+group7(60-69),China,Male,"""fever"", ""cough"", ""fatigue"", ""nausea""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+group7(60-69),China,Female,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,china,0,0
+group7(60-69),China,Female,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,china,0,0
+group3(20-30),China,Male,"""cough"", ""fever"", ""sputum""",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+group3(20-30),China,Male,"""cough"", ""fever"", ""sputum""",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+group7(60-69),China,Female,"""cough"", ""fever"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,,0,1
+group7(60-69),China,Female,"""primary myelofibrosis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1
+group8(70-79),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,0,1
+group4(30-39),Unite,Female,"""mild symptoms""",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,iran,0,0
+group4(30-39),China,Female,"""fever"", ""dry mouth"", ""pharyngalgia""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Thailand,0,0
+group4(30-39),China,Female,"""dry throat""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,china,0,0
+group4(30-39),China,Female,"""fever"", ""dry mouth"", ""pharyngalgia""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Thailand,0,0
+group4(30-39),China,Female,"""dry throat""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,china,0,0
+group6(50-59),China,Female,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,china,0,0
+group6(50-59),China,Female,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,china,0,0
+group6(50-59),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+group6(50-59),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+group6(50-59),China,Male,"""cough"", ""sputum"", ""fever""",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+group6(50-59),China,Male,"""cough"", ""sputum"", ""fever""",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+,Unite,Male,"""cough"", ""fever"", ""shortness of breath""",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,china,0,0
+,Unite,Male,"""cough"", ""fever"", ""shortness of breath""",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,china,0,0
+group6(50-59),China,Female,"""pneumonitis""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,0
+group6(50-59),Japan,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0,0
+group6(50-59),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,hongkong,0,0
+group4(30-39),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group7(60-69),Argen,Male,"""fever"", ""cough"", ""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,2,France,1,0
+group4(30-39),Lithu,Female,"""mild symptoms""",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,italy,0,0
+group5(40-49),Roman,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,italy,0,0
+group5(40-49),Roman,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,italy,0,0
+group8(70-79),Roman,Female,"""fever"", ""nausea"", ""digestive discomfort""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,italy,0,0
+group8(70-79),Roman,Female,"""fever"", ""nausea"", ""digestive discomfort""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,italy,0,0
+group7(60-69),China,Male,"""cough"", ""fatigue"", ""fever"", ""sputum""",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,China,0,0
+group3(20-30),Switz,Female,"""cough"", ""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,italy,0,0
+group6(50-59),China,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,China,0,0
+group6(50-59),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,China,0,0
+group4(30-39),China,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group6(50-59),China,Female,"""fatigue"", ""fever"", ""weakness""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group4(30-39),China,Male,"""chills"", ""fever"", ""myalgias"", ""other symptoms""",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,China,0,0
+droup2(11-19),China,Male,"""fatigue"", ""myalgias"", ""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,China,0,0
+group6(50-59),China,Male,"""fatigue"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,China,0,0
+group3(20-30),Switz,Male,"""cough""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,italy,0,0
+group5(40-49),Phili,Male,"""cough"", ""sore throat""",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,hongkong,1,1
+group4(30-39),Japan,Male,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,China,0,0
+group6(50-59),Japan,Male,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,China,0,0
+,Niger,Male,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,italy,0,0
+group3(20-30),Switz,Male,"""mild symptoms""",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,italy,0,0
+group5(40-49),China,Male,"""lesions on chest radiographs""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,china,0,0
+,Niger,Male,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,italy,0,0
+group3(20-30),Andor,Male,"""mild symptoms""",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,Colombia,0,0
+,Ecuad,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,spain,0,0
+,Ecuad,Female,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,spain,0,0
+group6(50-59),China,Female,"""dry throat"", ""sore throat"", ""fatigue""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,Thailand,0,0
+group7(60-69),China,Male,"""cough"", ""myalgias"", ""weakness""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Thailand,0,0
+group3(20-30),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Vietnam,0,0
+group3(20-30),Namib,Female,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,spain,0,0
+group4(30-39),Namib,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,spain,0,0
+group8(70-79),Japan,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,chile,0,0
+group5(40-49),Malay,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,malaysia,0,0
+group8(70-79),Japan,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,chile,0,0
+,Nethe,Female,"""mild symptoms""",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,italy,0,0
+group3(20-30),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Vietnam,0,0
+group4(30-39),Switz,Male,"""mild symptoms""",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,italy,0,0
+,Switz,Female,"""mild symptoms""",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,italy,0,0
+droup2(11-19),Roman,Male,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0
+group8(70-79),Roman,Male,"""fever"", ""chills""",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,italy,0,0
+group6(50-59),Brazi,Male,"""fever"", ""body soreness"", ""sore throat"", ""headache""",0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,Europe,0,0
+group3(20-30),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+group3(20-30),China,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,china,0,0
+group6(50-59),Brazi,Male,"""fever"", ""body soreness"", ""sore throat"", ""headache""",0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,Europe,0,0
+group3(20-30),Brazi,Male,"""fever"", ""cough"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Europe,0,0
+group5(40-49),Brazi,Female,"""asymptomatic""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0
+group5(40-49),Brazi,Male,"""fever"", ""cough"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Europe,0,0
+group8(70-79),Brazi,Male,"""fever"", ""cough"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Europe,0,0
+group6(50-59),Brazi,Female,"""fever"", ""cough"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Europe,0,0
+group7(60-69),Brazi,Female,"""fever"", ""cough"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Europe,0,0
+group3(20-30),Brazi,Male,"""fever"", ""cough"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Europe,0,0
+group7(60-69),Brazi,Female,"""cough"", ""fever"", ""respiratory symptoms""",0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,italy,0,0
+group8(70-79),Brazi,Male,"""cough"", ""fever"", ""respiratory symptoms""",0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,italy,0,0
+group5(40-49),Brazi,Male,"""fever"", ""cough"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Europe,0,0
+group8(70-79),Brazi,Male,"""fever"", ""cough"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Europe,0,0
+group6(50-59),China,Female,"""dry throat"", ""sore throat"", ""fatigue""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,Thailand,0,0
+group6(50-59),Brazi,Female,"""fever"", ""cough"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Europe,0,0
+group7(60-69),Brazi,Male,"""fever"", ""cough"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,,1,0
+group7(60-69),Brazi,Female,"""fever"", ""cough"", ""myalgias""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Europe,0,0
+droup2(11-19),Namib,Male,"""COVID-19 related symptoms""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,uk,0,0
+group3(20-30),China,Female,"""headache"", ""dry mouth""",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,Thailand,0,0
+droup2(11-19),Namib,Male,"""COVID-19 related symptoms""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,uk,0,0
+group7(60-69),Phili,Male,"""acute respiratory distress syndrome"", ""pneumonia""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,uk,1,1
+,Germa,Male,"""flu-like symptoms""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,italy,0,0
+group6(50-59),Germa,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,italy,0,0
+group7(60-69),Boliv,Female,"""fever"", ""weakness""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,italy,1,0
+group4(30-39),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group4(30-39),China,Male,"""fever""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,china,0,0
+group3(20-30),China,Female,"""headache"", ""dry mouth""",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,Thailand,0,0
+group5(40-49),Japan,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,japan,0,0
+group5(40-49),Japan,Male,"""cough"", ""fever""",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,japan,0,0
